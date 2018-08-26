@@ -1,0 +1,16 @@
+{
+	"name": "sau/wp-twig",
+	"description": "Packet for using twig in wp",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Akinay Sau",
+			"email": "akinay.sau@gmail.com"
+		}
+	],
+	"require": {
+		"sau/wp-configs": "1.0.0",
+		"twig/twig": "^2.5"
+	}
+}
